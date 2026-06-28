@@ -11,13 +11,12 @@
 | Coursework         |  Weight | Score (%) | Weighted Score |                   Remarks                    |
 |--------------------|---------|-----------|----------------|----------------------------------------------|
 | Class Participation|  10%    |           |                |                                              |
-| Assignment 0       |   4%    |     100.0 |                |                                              |
+| Assignment 0       |   5%    |     100.0 |                |                                              |
 | Assignment 1       |  10%    |      90.0 |                |                                              |
 | Quiz 1             |   4%    |      74.0 |                |                                              |
-| Assignment 2       |  10%    |           |                |                                              |
-| Quiz 2             |   4%    |           |                |                                              |
+| Assignment 2       |  15%    |           |                |                                              |
+| Quiz 2             |   5%    |           |                |                                              |
 | Test I             |  15%    |      75.0 |                |                                              |
-| Assignment 3       |  13%    |           |                |                                              |
-| Test II            |  15%    |           |                |                                              |
-| Project            |  15%    |           |                |                                              |
-| **Total**          | **100%**|  **73.54**|   **44.12/60** |                                              |
+| Test II            |  18%    |           |                |                                              |
+| Project            |  18%    |           |                |                                              |
+| **Total**          | **100%**|  **72.33**|   **43.40/60** |                                              |
